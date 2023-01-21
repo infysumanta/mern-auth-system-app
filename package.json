@@ -1,0 +1,21 @@
+{
+  "name": "mern-auth-system-app",
+  "version": "1.0.0",
+  "description": "MERN Stack Authentication Apps with Reset Password, OTP verify, account verify etc.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/mern-auth-system-app.git"
+  },
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infysumanta/mern-auth-system-app/issues"
+  },
+  "homepage": "https://github.com/infysumanta/mern-auth-system-app#readme"
+}
